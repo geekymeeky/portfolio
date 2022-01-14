@@ -32,7 +32,7 @@ const About = () => {
       <Skills />
       <div className="flex">
         <a
-          href="https://www.linkedin.com"
+          href="https://www.linkedin.com/in/srijankrgupta/"
           className="inline-block uppercase mx-auto shadow bg-black hover:bg-white hover:text-black focus:shadow-outline focus:outline-none text-white text-xs py-3 px-10 rounded"
         >
           View Profile

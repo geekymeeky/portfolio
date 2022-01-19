@@ -17,7 +17,7 @@ const Education = () => {
   return (
     <section
       id="education"
-      className="flex flex-col items-center min-h-screen bg-purple-500"
+      className="flex flex-col items-center min-h-screen bg-blue"
     >
       <div className="flex flex-col">
         <h2 className="pt-10 text-4xl text-center text-white font-medium">
@@ -25,7 +25,7 @@ const Education = () => {
         </h2>
         <h5 className="text-white font-mono pt-3">This is what I'm made of</h5>
       </div>
-      <div className="flex flex-1 justify-center items-center">
+      <div className="flex flex-1 justify-center items-center text-black">
         <div className="grid grid-cols-3 items-center justify-items-center">
           {edu.map(({ year, discipline, institute }, index) => (
             <React.Fragment key={index}>

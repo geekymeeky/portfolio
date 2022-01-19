@@ -26,19 +26,19 @@ const Navbar = () => {
           <a href="#home">Srijan Kr. Gupta</a>
         </h1>
         <ul className="hidden md:flex text-center justify-around uppercase">
-          <li className="px-4 hover:text-blue-300">
+          <li className="px-4 hover:text-yellow">
             <a href="#about">About</a>
           </li>
-          <li className="px-4 hover:text-blue-300">
+          <li className="px-4 hover:text-yellow">
             <a href="#experience">Experience</a>
           </li>
-          <li className="px-4 hover:text-blue-300">
+          <li className="px-4 hover:text-yellow">
             <a href="#education">Education</a>
           </li>
-          <li className="px-4 hover:text-blue-300">
+          <li className="px-4 hover:text-yellow">
             <a href="#portfolio">Portfolio</a>
           </li>
-          <li className="px-4 hover:text-blue-300">
+          <li className="px-4 hover:text-yellow">
             <a href="#contact">Contact</a>
           </li>
         </ul>

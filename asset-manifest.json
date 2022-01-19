@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9de6db5a.chunk.css",
-    "main.js": "/portfolio/static/js/main.fffe5e21.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.fffe5e21.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.f42292fa.chunk.css",
+    "main.js": "/portfolio/static/js/main.43f5429d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.43f5429d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.5483d5da.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.5483d5da.js.map",
     "static/js/2.fa84cdcf.chunk.js": "/portfolio/static/js/2.fa84cdcf.chunk.js",
     "static/js/2.fa84cdcf.chunk.js.map": "/portfolio/static/js/2.fa84cdcf.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.9de6db5a.chunk.css.map": "/portfolio/static/css/main.9de6db5a.chunk.css.map",
+    "static/css/main.f42292fa.chunk.css.map": "/portfolio/static/css/main.f42292fa.chunk.css.map",
     "static/js/2.fa84cdcf.chunk.js.LICENSE.txt": "/portfolio/static/js/2.fa84cdcf.chunk.js.LICENSE.txt",
-    "static/media/GraduationCap.a08f45f2.svg": "/portfolio/static/media/GraduationCap.a08f45f2.svg",
+    "static/media/GraduationCap.add82b5f.svg": "/portfolio/static/media/GraduationCap.add82b5f.svg",
     "static/media/App.css": "/portfolio/static/media/srijan.d779e53a.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.5483d5da.js",
     "static/js/2.fa84cdcf.chunk.js",
-    "static/css/main.9de6db5a.chunk.css",
-    "static/js/main.fffe5e21.chunk.js"
+    "static/css/main.f42292fa.chunk.css",
+    "static/js/main.43f5429d.chunk.js"
   ]
 }

@@ -24,7 +24,12 @@ const Skills = () => {
     },
   ];
   return (
-    <section className="flex flex-col justify-center items-center">
+    <div
+      className="flex flex-col justify-center items-center"
+      data-aos="flip-up"
+      data-aos-duration="500"
+      data-aos-delay="500"
+    >
       <div className="flex-1 flex justify-center items-center font-semibold underline text-2xl">
         Skills
       </div>
@@ -46,7 +51,7 @@ const Skills = () => {
             </div>
           ))}
         </div>
-        <p className="flex-1 font-semibold p-14">
+        <div className="flex-1 font-semibold p-14">
           My education background and my passion towards coding allowed me to
           thrive in this career
           <br />
@@ -57,9 +62,9 @@ const Skills = () => {
           <br />
           <br />
           Thank You.
-        </p>
+        </div>
       </div>
-    </section>
+    </div>
   );
 };
 

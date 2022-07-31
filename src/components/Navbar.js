@@ -12,7 +12,7 @@ const Navbar = () => {
   useEffect(() => {
     window.addEventListener("scroll", controlNavbar);
     return () => {
-      window.removeEventListener("scroll");
+      window.removeEventListener("scroll", controlNavbar);
     };
   }, []);
   return (
